@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Keenan Bedenfield
 #### Graphic Designer and Web Developer
-![Graphic Designer and Web Developer](https://pbs.twimg.com/profile_banners/2966266495/1672164547/1500x500)
+![Graphic Designer and Web Developer](https://pbs.twimg.com/profile_banners/2966266495/1672168202/1500x500)
 
 I love art, digital design and creating useful things.
 
