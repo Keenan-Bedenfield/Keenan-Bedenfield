@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Keenan Bedenfield
-### Hi there 👋, my name is Keenan Bedenfield
 #### Graphic Designer and Web Developer
 ![Graphic Designer and Web Developer](https://pbs.twimg.com/profile_banners/2966266495/1672164547/1500x500)
 
