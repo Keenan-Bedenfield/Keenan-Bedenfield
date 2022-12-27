@@ -7,6 +7,12 @@ I love art, digital design and creating useful things.
 
 Skills: REACT / JS / HTML / CSS
 
+
+
+
+
+
+
 <h3 align="center">I love art, digital design, and I'm a full stack developer.</h3>
 <img align="right" alt="the difference between a designer working versus a developer working" width="400" src="https://media1.giphy.com/media/9LQHvkbIzTSLe/giphy.gif">
 
