@@ -1,4 +1,3 @@
-<h1 align="center">Hey 👋, I'm Keenan Bedenfield</h1>
 ### Hi there 👋, my name is Keenan Bedenfield
 #### Graphic Designer and Web Developer
 ![Graphic Designer and Web Developer](https://pbs.twimg.com/profile_banners/2966266495/1672161053/1500x500)
@@ -12,7 +11,7 @@ Skills: REACT / JS / HTML / CSS
 
 
 
-
+<h1 align="center">Hey 👋, I'm Keenan Bedenfield</h1>
 <h3 align="center">I love art, digital design, and I'm a full stack developer.</h3>
 <img align="right" alt="the difference between a designer working versus a developer working" width="400" src="https://media1.giphy.com/media/9LQHvkbIzTSLe/giphy.gif">
 
