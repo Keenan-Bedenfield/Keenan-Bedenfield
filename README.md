@@ -4,7 +4,7 @@
 
 I love art, digital design and creating useful things.
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS / Adobe CC
 
 
 
