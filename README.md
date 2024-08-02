@@ -2,7 +2,7 @@
 #### Graphic Designer and Web Developer
 ![Graphic Designer and Web Developer](https://pbs.twimg.com/profile_banners/2966266495/1672168202/1500x500)
 
-I love art, digital design and creating useful things.
+I love creating useful things.
 
 Skills: REACT / JS / HTML / CSS / Adobe CC
 
@@ -21,17 +21,17 @@ Skills: REACT / JS / HTML / CSS / Adobe CC
 
 - 🔭 I’m currently working on **a streaming platform.**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Python and AWS**
 
-- 👯 I’m looking to collaborate on **on fun projects surrounding gaming and entertainment.**
+- 👯 I’m looking to collaborate on **on all projects fun and challenging.**
 
 - 👨‍💻 Most of my projects are available at [here.](here.)
 
-- 💬 Ask me about **anything!**
+- 💬 Ask me about **Art and Grafitti**
 
-- 📫 How to reach me **pinealestatepics@gmail.com**
+- 📫 How to reach me **keenanbedenfield@gmail.com**
 
-- ⚡ Fun fact **I'm a poet and artist.**
+- ⚡ Fun fact **I love science.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
