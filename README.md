@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Keenan Bedenfield
-#### Graphic Designer and Web Developer
+#### Graphic Design | Web Development | Cloud Architecture
 ![Graphic Designer and Web Developer](https://pbs.twimg.com/profile_banners/2966266495/1672168202/1500x500)
 
 I love creating useful things.
@@ -11,8 +11,8 @@ Skills: REACT / JS / HTML / CSS / Adobe CC
 
 
 
-<h1 align="center">Hey 👋, I'm Keenan Bedenfield</h1>
-<h3 align="center">I love art, digital design, and I'm a full stack developer.</h3>
+<h1 align="left">Hey 👋, I'm Keenan Bedenfield</h1>
+<h3 align="left">I love art, digital design, and I'm a full stack developer.</h3>
 <img align="right" alt="the difference between a designer working versus a developer working" width="400" src="https://media1.giphy.com/media/9LQHvkbIzTSLe/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keenan-bedenfield&label=Profile%20views&color=0e75b6&style=flat" alt="keenan-bedenfield" /> </p>
