@@ -2,7 +2,6 @@
 #### Cloud Development | Virtual Network Technology
 
 <section>
-  <h2 align="left">Keenan Bedenfield</h2>
   <p>I have a lifelong passion for multimedia design and deploying apps using cloud technology.</p>
 </section>
 <section>
