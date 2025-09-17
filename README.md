@@ -1,42 +1,34 @@
 ### Hi there 👋, my name is Keenan Bedenfield
-#### Graphic Design | Web Development | Cloud Architecture
-![Graphic Designer and Web Developer](https://pbs.twimg.com/profile_banners/2966266495/1672168202/1500x500)
+#### Web Development | Cloud Architecture
+![Cloud Architect and Web Developer](https://pbs.twimg.com/profile_banners/2966266495/1672168202/1500x500)
 
-I love creating useful things.
-
-Skills: REACT / JS / HTML / CSS / Adobe CC
-
-
-
-
-
-
-<h1 align="left">Hey 👋, I'm Keenan Bedenfield</h1>
-<h3 align="left">I love art, digital design, and I'm a full stack developer.</h3>
+<h1 align="left">Keenan Bedenfield</h1>
+<h2>Skills: UI Design | JavaScript | Multimedia Design</h2>
+<p>I have a lifelong passion for multimedia design and deploying apps using cloud technology.</p>
+<h3 align="left">Full stack developer & IT Technician.</h3>
 <img align="right" alt="the difference between a designer working versus a developer working" width="400" src="https://media1.giphy.com/media/9LQHvkbIzTSLe/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keenan-bedenfield&label=Profile%20views&color=0e75b6&style=flat" alt="keenan-bedenfield" /> </p>
 
-<p align="left"> <a href="https://twitter.com/deityphysiology" target="blank"><img src="https://img.shields.io/twitter/follow/deityphysiology?logo=twitter&style=for-the-badge" alt="deityphysiology" /></a> </p>
 
 - 🔭 I’m currently working on **a streaming platform.**
 
-- 🌱 I’m currently learning **Python and AWS**
+- 🌱 I’m currently learning **C++ and Unreal engine for a private project**
 
-- 👯 I’m looking to collaborate on **on all projects fun and challenging.**
+- 👯 I’m looking to collaborate on **on all projects fun and challenging**
 
 - 👨‍💻 Most of my projects are available at [here.](here.)
 
-- 💬 Ask me about **Art and Grafitti**
+- 💬 Ask me about **90's Anime**
 
 - 📫 How to reach me **keenanbedenfield@gmail.com**
 
-- ⚡ Fun fact **I love science.**
+- ⚡ Fun fact **I enjoy tech, plus I'm known to Rap♗**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/keenan-bedenfield" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/keenan-bedenfield" height="30" width="40" /></a>
-<a href="https://twitter.com/deityphysiology" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deityphysiology" height="30" width="40" /></a>
+<br>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/keenan-bedenfield-82b9a5216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/keenan-bedenfield-82b9a5216/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/edit/15040091" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/edit/15040091" height="30" width="40" /></a>
 </p>
