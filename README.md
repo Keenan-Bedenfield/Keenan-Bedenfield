@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Keenan Bedenfield
+### Keenan Bedenfield
 #### Cloud Development | Virtual Network Technology
 
 <section>
@@ -6,8 +6,7 @@
   <p>I have a lifelong passion for multimedia design and deploying apps using cloud technology.</p>
 </section>
 <section>
-  <h4 align="left">Full stack developer & IT Technician.</h4>
-  <a src="https://www.credly.com/users/kpb" alt="verify my certifications"><h3>Verify my certifications<h3></a>
+  <a src="https://www.credly.com/users/kpb" alt="verify my certifications"><h4>Verify my certifications<h4></a>
   <img align="right" alt="the difference between a designer working versus a developer working" width="400" src="https://media1.giphy.com/media/9LQHvkbIzTSLe/giphy.gif">
 </section>
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=keenan-bedenfield&label=Profile%20views&color=0e75b6&style=flat" alt="keenan-bedenfield" /></a> 
