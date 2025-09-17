@@ -2,13 +2,18 @@
 #### Web Development | Cloud Architecture
 ![Cloud Architect and Web Developer](https://pbs.twimg.com/profile_banners/2966266495/1672168202/1500x500)
 
-<h1 align="left">Keenan Bedenfield</h1>
-<h2>Skills: UI Design | JavaScript | Multimedia Design</h2>
-<p>I have a lifelong passion for multimedia design and deploying apps using cloud technology.</p>
+<section>
+  <a src="https://www.credly.com/users/kpb" alt="verify my certifications"/>
+  <h1 align="left">Keenan Bedenfield</h1>
+  <h3>Virtual Networking | JavaScript | Multimedia Design</h3>
+  <p>I have a lifelong passion for multimedia design and deploying apps using cloud technology.</p>
+</section>
+
 <h3 align="left">Full stack developer & IT Technician.</h3>
 <img align="right" alt="the difference between a designer working versus a developer working" width="400" src="https://media1.giphy.com/media/9LQHvkbIzTSLe/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keenan-bedenfield&label=Profile%20views&color=0e75b6&style=flat" alt="keenan-bedenfield" /> </p>
+
 
 
 - 🔭 I’m currently working on **a streaming platform.**
