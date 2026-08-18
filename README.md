@@ -1,8 +1,7 @@
 ### Keenan Bedenfield
-#### Cloud Development | Virtual Network Technology
-
+#### Virtual Networking | Cloud Solutions • Multimedia Production
 <section>
-  <p>I have a lifelong passion for multimedia design and deploying apps using cloud technology.</p>
+  <p>I have a lifelong passion for gaming and art; conceptualizing and developing original multimedia visual art projects spanning -illustration, web development, audio productions, cinematography, screenplay writing, and digital design- integrating storytelling with visual composition to create cohesive, audience-driven experiences.</p>
 </section>
 <section>
   <a src="https://www.credly.com/users/kpb" alt="verify my certifications"><h4>Verify my certifications<h4></a>
