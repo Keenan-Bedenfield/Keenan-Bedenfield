@@ -1,4 +1,4 @@
-### About me:
+### Keenan Bedenfield
 #### Cloud Development | Virtual Network Technology
 
 <section>
